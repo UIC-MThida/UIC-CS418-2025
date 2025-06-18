@@ -21,6 +21,7 @@ Provides an in-depth overview of data science in engineering. Topics include mod
 ### 🔗 Course Pages
 - [Course GitHub References](https://uic-cs418-myo.github.io/UIC-CS418-2025/)
 - [Final Project Submission](https://classroom.github.com/a/XJjOSHlI)
+  
 ---
 
 ### 📚 Textbook
@@ -32,9 +33,12 @@ Provides an in-depth overview of data science in engineering. Topics include mod
 - Andrew Ng – *Machine Learning Yearning* (2018)
 - [Data Visualization Resources](https://github.com/myothida/data_visualization)
 - Heinold – *Practical Introduction to Python Programming*
+  
 ---
+
 ### 💻 Tablet/Laptop Use
 Bring your charged laptop to each class.
+
 ---
 ## 📊 Grading Policy
 
@@ -42,6 +46,7 @@ Bring your charged laptop to each class.
 - **3 Lab-based Assignments** – 30%  
 - **2 In-Class Assessments (each 15%)** – 30%  
 - **Final Project** – 20%
+  
 ---
 
 ## 📚 Homework and Participation Policy
@@ -50,6 +55,7 @@ Bring your charged laptop to each class.
 - Reading assignments and participation activities are expected to be completed before or during the class session.
 - Incomplete in-class work is also considered homework.
 - All homework is due by the following Monday at 11:59 PM.
+  
 ---
 
 ## ⚖️ Academic Honesty
