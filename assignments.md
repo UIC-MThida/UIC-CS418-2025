@@ -16,7 +16,7 @@ nav_order: 4
   Due: Week 10 Monday 11:59 PM  
 
 ---
-## 🚀 Assessment
+## 📋 Assessment
 
 - **In-Class Assessment 1:** Day 6 (during class)  
 - **In-Class Assessment 2:** Day 15 (Final Assessment, during class)
