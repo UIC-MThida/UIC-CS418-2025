@@ -13,13 +13,13 @@ nav_order: 4
 ## 💻 Lab Assignments
 
 - **Lab 1:** Data Wrangling  
-  Due: Week 2 Monday 11:59 PM  
+  Due: Week 3 Monday 11:59 PM  
 
 - **Lab 2:** Linear Regression  
   Due: Week 5 Monday 11:59 PM  
 
 - **Lab 3:** Classification  
-  Due: Week 10 Monday 11:59 PM  
+  Due: Week 6 Monday 11:59 PM  
 
 ---
 ## 📋 Assessment
@@ -32,7 +32,7 @@ nav_order: 4
 
 The final project is managed via [GitHub Classroom](https://classroom.github.com/a/XJjOSHlI).  
 
-- Proposal due: Day 5  
+- Proposal : Day 5  
 - Progress update: Day 11  
 - Final presentation: Day 16  
 
