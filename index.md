@@ -36,7 +36,6 @@ Provides an in-depth overview of data science in engineering. Topics include mod
 ---
 
 ### 🔍 Main References
-- [Intro to Data Science GitHub](https://github.com/myothida/intro_data_science.git)
 - Timbers, Campbell, and Lee – *Data Science: A First Introduction*
 - Lau, Gonzalez, and Nolan – *Principles and Techniques of Data Science*
 - Andrew Ng – *Machine Learning Yearning* (2018)
@@ -45,13 +44,3 @@ Provides an in-depth overview of data science in engineering. Topics include mod
 
 ---
 
-### 🎯 Course Objectives
-- Apply data science principles to real-world problems.
-- Analyze and classify data to extract insights.
-- Communicate findings through visualization.
-- Assess the ethical and social impact of data systems.
-
----
-
-### 💻 Tablet/Laptop Use
-Bring your charged laptop to each class.
