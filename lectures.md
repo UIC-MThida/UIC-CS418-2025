@@ -9,7 +9,7 @@ nav_order: 5
 | Day   | Date       | Topic                          | Canvas Link                                  |
 |-------|------------|--------------------------------|----------------------------------------------|
 | Day 1 | Jun 16     | Intro to Data Science          | [Canvas Day 1](https://www.canva.com/design/DAGoZh7zwb8/ysaxIlMXUzUYaEY5UXAFUA/view?utm_content=DAGoZh7zwb8&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h38469dd514) |
-| Day 2 | Jun 18     | Python for Data Science        | [Canvas Day 2](https://canvas.uic.edu/courses/XXXX/modules) |
+| Day 2 | Jun 18     | Python for Data Science        | [Canvas Day 2]([https://canvas.uic.edu/courses/XXXX/modules](https://www.canva.com/design/DAGoe9ADgOM/uq3B-_QaiBWiT_T3WzNrrQ/view?utm_content=DAGoe9ADgOM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hb07ba584ca)) |
 | Day 3 | Jun 23     | Data Wrangling                | [Canvas Day 3](https://canvas.uic.edu/courses/XXXX/modules) |
 | Day 4 | Jun 25     | Data Wrangling                | [Canvas Day 4](https://canvas.uic.edu/courses/XXXX/modules) |
 | Day 5 | Jun 30     | Exploratory Data Analysis      | [Canvas Day 5](https://canvas.uic.edu/courses/XXXX/modules) |
