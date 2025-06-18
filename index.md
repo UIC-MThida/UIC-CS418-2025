@@ -3,10 +3,10 @@ layout: default
 title: Home
 ---
 
-# CMPT 418: Introduction to Data Science
+# CS 418: Introduction to Data Science
 
 **Summer Semester (8 weeks) II, 2025**  
-Instructor: Dr. Myo Thida  
+Instructor: Prof. Myo Thida  
 Time: MW: 10:45 - 13:15  
 Course Credits: 4 credits  
 Office Hours: MW: 10:00–10:45, WTh: 4:00–5:30 PM (Zoom)  
