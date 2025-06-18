@@ -1,6 +1,7 @@
 ---
-layout: default
-title: Home
+title: "CS 418: Introduction to Data Science"
+layout: home
+nav_order: 1
 ---
 
 # CS 418: Introduction to Data Science
