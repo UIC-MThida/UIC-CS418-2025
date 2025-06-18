@@ -17,11 +17,11 @@ Place: TBA
 ---
 
 ## 🔗 Quick Links
-- [📄 Syllabus](./syllabus)
-- [📅 Schedule](./schedule)
-- [🚀 Final Project](./final-project)
+- [📄 Syllabus](./syllabus.md)
+- [📅 Schedule](./schedule.md)
+- [🚀 Final Project](./final-project.md)
 - [📘 Textbook on Zybooks](https://learn.zybooks.com/zybook/UICCS418ThidaSummer2025)
-- [Course GitHub Org](https://github.com/UIC-CS418-2025)
+- [Course GitHub Org](https://github.com/UIC-CS418-Myo/UIC-CS418-2025)
 - 
 
 
