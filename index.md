@@ -4,8 +4,6 @@ layout: home
 nav_order: 1
 ---
 
-# CS 418: Introduction to Data Science
-
 **Summer Semester (8 weeks) II, 2025**  
 Instructor: Prof. Myo Thida  
 Time: MW: 10:45 - 13:15  
