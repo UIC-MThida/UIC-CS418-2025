@@ -26,18 +26,16 @@ Provides an in-depth overview of data science in engineering. Topics include mod
 ### 📚 Textbook
 - [ZyBook: UICCS418ThidaSummer2025](https://learn.zybooks.com/zybook/UICCS418ThidaSummer2025)
 
----
-
 ### 🔍 Main References
 - Timbers, Campbell, and Lee – *Data Science: A First Introduction*
 - Lau, Gonzalez, and Nolan – *Principles and Techniques of Data Science*
 - Andrew Ng – *Machine Learning Yearning* (2018)
 - [Data Visualization Resources](https://github.com/myothida/data_visualization)
 - Heinold – *Practical Introduction to Python Programming*
-
+---
 ### 💻 Tablet/Laptop Use
 Bring your charged laptop to each class.
-
+---
 ## 📊 Grading Policy
 
 - **In-class and zyBook Activities** – 20%  
