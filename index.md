@@ -4,6 +4,11 @@ layout: home
 nav_order: 1
 ---
 
+
+Welcome to **CS 418: Introduction to Data Science**! This course provides an in-depth overview of data science methods and applications in engineering. You’ll explore modeling, data storage, classification, visualization, and more — with hands-on labs and a final project.
+
+---
+
 **Summer Semester (8 weeks) II, 2025**  
 Instructor: Prof. Myo Thida  
 Time: MW: 10:45 - 13:15  
