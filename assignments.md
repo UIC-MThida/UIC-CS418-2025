@@ -4,7 +4,13 @@ layout: page
 nav_order: 4
 ---
 
-## 🧪 Lab Assignments
+## 📚 In-Class Activities
+
+- **In-Class & zyBook Activities**  
+  Ongoing during the semester, counting for 20% of your grade.  
+  Complete readings and activities as assigned each week.
+
+## 💻 Lab Assignments
 
 - **Lab 1:** Data Wrangling  
   Due: Week 2 Monday 11:59 PM  
