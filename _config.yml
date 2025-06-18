@@ -1,5 +1,5 @@
-title: CS 418: Intro to Data Science
-description: Summer Semester II, 2025 - Prof. Myo Thida
+title: CMPT 418: Intro to Data Science
+description: Summer Semester II, 2025 - Dr. Myo Thida
 theme: minima
-baseurl: ""
-url: "https://cs418.github.io"
+baseurl: "/cs418-2025"
+url: "https://uic-cs418-myo.github.io"
