@@ -22,6 +22,7 @@ Place: TBA
 ## 🔗 Quick Links
 - [📄 Syllabus](./syllabus.md)
 - [📅 Schedule](./schedule.md)
+- [📅 Assignments](./assignments.md)
 - [🚀 Final Project](./final-project.md)
 - [📘 Textbook on Zybooks](https://learn.zybooks.com/zybook/UICCS418ThidaSummer2025)
 - [Course GitHub Org](https://github.com/UIC-CS418-Myo/UIC-CS418-2025)
