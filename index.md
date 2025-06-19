@@ -14,8 +14,8 @@ Instructor: Prof. Myo Thida
 Time: MW: 10:45 - 13:15  
 Course Credits: 4 credits  
 Office Hours: MW: 10:00–10:45, WTh: 4:00–5:30 PM (Zoom)  
-Email: TBA  
-Place: TBA  
+Email: mthida@uic.edu
+Place: ARC136  
 
 ---
 
