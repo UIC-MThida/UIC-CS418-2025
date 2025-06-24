@@ -32,7 +32,7 @@ nav_order: 4
 ---
 ## 🚀 Final Project
 
-The final project is managed via [GitHub Classroom](https://classroom.github.com/a/XJjOSHlI).  
+The [final project](https://www.canva.com/design/DAGrSbiutE8/kJijzZlVITjcdHDBe22y1g/view?utm_content=DAGrSbiutE8&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h12f28466bc) is managed via [GitHub Classroom](https://classroom.github.com/a/XJjOSHlI).  
 
 - Proposal : Day 5  
 - Progress update: Day 11  
