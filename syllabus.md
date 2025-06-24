@@ -48,6 +48,24 @@ Bring your charged laptop to each class.
 - **Final Project** – 20%
   
 ---
+### 🔠 Letter Grade Scale
+
+| Percentage Range | Letter Grade |
+|------------------|--------------|
+| 93–100%          | A            |
+| 90–92%           | A−           |
+| 87–89%           | B+           |
+| 83–86%           | B            |
+| 80–82%           | B−           |
+| 77–79%           | C+           |
+| 73–76%           | C            |
+| 70–72%           | C−           |
+| 67–69%           | D+           |
+| 63–66%           | D            |
+| 60–62%           | D−           |
+| Below 60%        | F            |
+
+---
 
 ## 📚 Homework and Participation Policy
 
