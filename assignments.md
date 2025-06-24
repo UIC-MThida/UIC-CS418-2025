@@ -21,7 +21,7 @@ nav_order: 4
 - **Lab 3:** Classification  
   Due: Week 6 Monday 11:59 PM  
 
-🏅 If a student completes the lab assignment during class time on the day it opens, they will receive one extra credit mark.
+- 🏅 If a student completes the lab assignment during class time on the day it opens, they will receive one extra credit mark.
 ---
 ## 📋 Assessment
 
