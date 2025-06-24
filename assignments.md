@@ -28,7 +28,7 @@ nav_order: 4
 - **In-Class Assessment 1:** Day 6 (during class)  
 - **In-Class Assessment 2:** Day 15 (Final Assessment, during class)
 
-📝 These assessments are conducted during class time and must be completed without the use of AI tools.
+- 📝 These assessments are conducted during class time and must be completed without the use of AI tools.
 ---
 ## 🚀 Final Project
 
