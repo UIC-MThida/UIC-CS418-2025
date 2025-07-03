@@ -14,8 +14,8 @@ nav_order: 5
 | Day 4 | Jun 25     | Data Wrangling                | [Canvas Day 4](https://www.canva.com/design/DAGqe9cJzio/z6KFhRZkLV-LIv7ce_xUtA/view?utm_content=DAGqe9cJzio&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h2a3512dfa1) |
 | Day 5 | Jun 30     | Exploratory Data Analysis      | [Canvas Day 5](https://www.canva.com/design/DAGrUlqFJDQ/YfxD68nAHwlgVtPI7lbgFw/view?utm_content=DAGrUlqFJDQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=he319ca7c8b) |
 | Day 6 | Jul 2      | Exploratory Data Analysis      | [Canvas Day 6](https://www.canva.com/design/DAGrSxehU8U/KKP6mMt-UCJ1fxSHDxdggQ/view?utm_content=DAGrSxehU8U&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h9b689ab435) |
-| Day 7 | Jul 7      | Data Modeling: Regression      | [Canvas Day 7](https://canvas.uic.edu/courses/XXXX/modules) |
-| Day 8 | Jul 9      | Data Modeling: Regression      | [Canvas Day 8](https://canvas.uic.edu/courses/XXXX/modules) |
+| Day 7 | Jul 7      | Data Modeling: Regression      | [Canvas Day 7](https://www.canva.com/design/DAGrfuXKf-g/-RVxAris51zsRLZjqCJHqw/view?utm_content=DAGrfuXKf-g&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hb1a0e36404) |
+| Day 8 | Jul 9      | Data Modeling: Regression      | [Canvas Day 8](https://www.canva.com/design/DAGrlBAR0Jw/-mi1u3cZNzycrQpjgEv89g/view?utm_content=DAGrlBAR0Jw&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=ha2632ec757) |
 | Day 9 | Jul 14     | Data Modeling: Classification  | [Canvas Day 9](https://canvas.uic.edu/courses/XXXX/modules) |
 | Day 10| Jul 16     | Data Modeling: Classification  | [Canvas Day 10](https://canvas.uic.edu/courses/XXXX/modules) |
 | Day 11| Jul 21     | Model Evaluation               | [Canvas Day 11](https://canvas.uic.edu/courses/XXXX/modules) |
