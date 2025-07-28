@@ -20,8 +20,8 @@ nav_order: 5
 | Day 10| Jul 16     | Data Modeling: Classification  | [Canvas Day 10](https://www.canva.com/design/DAGrm_OenJo/-pMeDIDXNMj9yUmR-6gG9Q/view?utm_content=DAGrm_OenJo&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h988fe1e990) |
 | Day 11| Jul 21     | Model Evaluation               | [Canvas Day 11](https://www.canva.com/design/DAGtv0XogxQ/sSXDYEHb2E6jSIHe7f2MIg/view?utm_content=DAGtv0XogxQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h18bb53d7f3) |
 | Day 12| Jul 23     | Model Evaluation               | [Canvas Day 12](https://www.canva.com/design/DAGtw7uoRdE/Jp2pkss1AlCmZwLQZlsbZA/view?utm_content=DAGtw7uoRdE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h543b04ef03) |
-| Day 13| Jul 28     | Unsupervised Learning          | [Canvas Day 13](https://canvas.uic.edu/courses/XXXX/modules) |
-| Day 14| Jul 30     | Unsupervised Learning          | [Canvas Day 14](https://canvas.uic.edu/courses/XXXX/modules) |
+| Day 13| Jul 28     | Unsupervised Learning          | [Canvas Day 13](https://www.canva.com/design/DAGt6-3vTrc/c6YMNTSFNiTFOzQoSKg36w/view?utm_content=DAGt6-3vTrc&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h8f29bdb232) |
+| Day 14| Jul 30     | Unsupervised Learning          | [Canvas Day 14](https://www.canva.com/design/DAGt8IHE-Ao/ZyFey-cgxGx7IwXfpfzq0w/view?utm_content=DAGt8IHE-Ao&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h33d70ab488) |
 | Day 15| Aug 4      | Final Assessment (In-class)    |  |
 | Day 16| Aug 6      | Final Project Presentation     |  |
 
