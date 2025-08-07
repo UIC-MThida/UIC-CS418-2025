@@ -21,14 +21,14 @@ nav_order: 4
 - **Lab 3:** Classification  
   Due: Week 6 Monday 11:59 PM  
 
-- 🏅 If a student completes the lab assignment during class time on the day it opens, they will receive one extra credit mark.
+- 🏅 ### If a student completes the lab assignment during class time on the day it opens, they will receive one extra credit mark.
 ---
 ## 📋 Assessment
 
 - **In-Class Assessment 1:** Day 6 (during class)  
 - **In-Class Assessment 2:** Day 15 (Final Assessment, during class)
 
-- 📝 These assessments are conducted during class time and must be completed without the use of AI tools.
+- 📝 ### These assessments are conducted during class time and must be completed without the use of AI tools.
 ---
 ## 🚀 Final Project
 
