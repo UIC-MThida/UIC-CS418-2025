@@ -19,7 +19,7 @@ Provides an in-depth overview of data science in engineering. Topics include mod
 
 ---
 ### 🔗 Course Pages
-- [Course GitHub References](https://uic-cs418-myo.github.io/UIC-CS418-2025/)
+- [Course GitHub References](https://uic-mthida.github.io/UIC-CS418-2025/)
 - [Final Project Submission](https://classroom.github.com/a/XJjOSHlI)
   
 ---
